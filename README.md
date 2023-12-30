@@ -1,12 +1,14 @@
 # User-portrait
-世纪佳缘用户画像分析
+Analysis of User Profile of Century Jiayuan
 
 ## 项目介绍
 
-为明确世纪佳缘用户择偶特点，提升推荐系统精度，构建了女性用户画像。
+To clarify the mate selection characteristics of Century Jiayuan users and improve the accuracy of the recommendation system, a female user profile has been constructed.
 
-项目分成以下三个部分：
+The project is divided into the following three parts:
 
-- 爬取用户信息
-- 挖掘用户特征
-- 可视化展示
+-Crawling user information
+
+-Mining user characteristics
+
+-Visual display
