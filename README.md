@@ -1,7 +1,7 @@
 # User-portrait
 Analysis of User Profile of Century Jiayuan
 
-## 项目介绍
+## Introduction
 
 To clarify the mate selection characteristics of Century Jiayuan users and improve the accuracy of the recommendation system, a female user profile has been constructed.
 
